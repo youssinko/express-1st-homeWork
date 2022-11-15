@@ -1,0 +1,8 @@
+<head>
+#title1#
+</head>
+<body>
+<header>#message1#</header>
+#content1#
+#content2#
+</body>
